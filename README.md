@@ -1,5 +1,7 @@
 # cypress_ui_api
 
+Link to GIT repository : https://github.com/manzoor78/cypress_ui_api
+
 Pre-Requisites:
 
     1. Internet is connected. 
