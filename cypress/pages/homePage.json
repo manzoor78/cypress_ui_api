@@ -1,0 +1,6 @@
+{
+  "SearchButton": "#gh-btn",
+  "SearchText": "#gh-ac",
+  "Logo": "#gh-logo",
+  "NoElement": "#gh-no-element-found"
+}
